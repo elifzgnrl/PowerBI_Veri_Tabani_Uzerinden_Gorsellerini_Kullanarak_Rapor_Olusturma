@@ -1,5 +1,4 @@
-# PowerBI_Veri_Tabani_Uzerinden_
-# Gorsellerini_Kullanarak_Rapor_Olusturma
+# Veri_Tabani_Uzerinden_PowerBI_Gorsellerini_Kullanarak_Rapor_Olusturma
 
 SSMS üzerinden oluşturulan kullanıcıların il bazlı sipariş sayısı olarak oluşturulan view' den Power BI' ya veri çekilmiştir. 
 

@@ -4,3 +4,6 @@ SSMS üzerinden oluşturulan kullanıcıların il bazlı sipariş sayısı olara
 
 ![image](https://github.com/elifzgnrl/PowerBI_Veri_Tabani_Uzerinden_Gorsellerini_Kullanarak_Rapor_Olusturma/assets/90255753/3dd75541-6b66-4d8d-98be-8375615f5442)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/elifzgnrl/PowerBI_Veri_Tabani_Uzerinden_Gorsellerini_Kullanarak_Rapor_Olusturma/assets/90255753/24a29517-0472-40cd-99c3-e7f9005d9055)
